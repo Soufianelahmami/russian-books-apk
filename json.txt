@@ -42,12 +42,17 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/J9Vx0Cu.jpg"},
+  {"desc2":"description2 ser",
+"photo2":"https://iili.io/J9Vxaj9.webp"},
+  {"desc3":"description3 ser",
+"photo3":"https://iili.io/J9Vx1Eb.jpg"},
+  {"desc4":"description4 ser",
+"photo4":"https://iili.io/J9VxcQe.jpg"},
+  {"desc5":"description5 ser",
+"photo5":"https://iili.io/J9VxM3x.webp"},
+  {"descd":"description d ser",
+"photod":"https://iili.io/J9VxE4j.jpg"}
    ]
  
 }
